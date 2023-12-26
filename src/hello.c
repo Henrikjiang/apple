@@ -3,6 +3,6 @@
 
 void printHelloWorld(){
       
-    printf("HelloWorld good night666666\n");
+    printf("HelloWorld good night6\n");
     
 }
